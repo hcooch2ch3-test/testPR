@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     
     @objc func tap() {
         print("tap")
+        print("gesture")
     }
 
 }
